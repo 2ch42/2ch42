@@ -1,14 +1,17 @@
+<div align=center>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ch42&layout=compact&theme=onedark)
+</div>
 
-
+<div align=center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1120)](https://solved.ac/ckdgus1120)
-
+</div>
 
 <div align=center>
 
 <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 
 </div>
 

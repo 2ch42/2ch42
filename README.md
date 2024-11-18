@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **2ch42/2ch42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on where42 iOS
+🌱 I’m currently learning iOS
+👯 I’m looking to collaborate on various iOS projects
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1120)](https://solved.ac/ckdgus1120)

@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on where42 iOS
+
 🌱 I’m currently learning iOS
+
 👯 I’m looking to collaborate on various iOS projects
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1120)](https://solved.ac/ckdgus1120)

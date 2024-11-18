@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1120)](https://solved.ac/ckdgus1120)
 
-<div align=center>
+<div align=left>
 
 <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" />

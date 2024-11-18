@@ -13,15 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on where42 iOS
-
-🌱 I’m currently learning iOS
-
-👯 I’m looking to collaborate on various iOS projects
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ch42&layout=compact&theme=onedark)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1120)](https://solved.ac/ckdgus1120)
+
+
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@ckdgus1120/")
 

@@ -19,5 +19,34 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1120)](https://solved.ac/ckdgus1120)
 
 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@ckdgus1120/posts)
+<!--
+**2ch42/2ch42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ch42&layout=compact&theme=onedark)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1120)](https://solved.ac/ckdgus1120)
+
+
+<div align=center>
+
+<img src="https://img.shields.io/badge/swift-7F52FF?style=flat&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/c-7F52FF?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/cplusplus-7F52FF?style=flat&logo=cplusplus&logoColor=white" />
+
+</div>
+
+
 

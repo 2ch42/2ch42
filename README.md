@@ -3,6 +3,12 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1120)](https://solved.ac/ckdgus1120)
 
+### 📚 Education.
+<div>
+- 🏫 Hongik Univ(Seoul). Computer Engineering </br>
+- 🖥️ 42 Seoul (Alumni) </br>
+</div> </br>
+
 <div align=left>
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
@@ -14,7 +20,7 @@
 
 ------
 
-### 🚀 프로젝트
+### 🚀 Project
 
 
 ### 📌 1) [Where42(iOS)](https://github.com/42Where/where42_iOS)
@@ -53,7 +59,7 @@
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/c45a9e58-4a9e-4fb5-b069-ad62b1770f44">
 </div>
 <div>
-- [프로젝트 소개] : "QRIZ"는 SQLD 시험 대비 모바일 서비스입니다.
+- [프로젝트 소개] : "QRIZ"는 SQLD 시험 대비 모바일 서비스입니다.</br>
 - [참여 기간] : 2024.12.01 ~ 진행 중<br/>
 - [기술 스택] : UIKit + Input/Output (MVVM), Coordinator <br/>
 - [역할] : **42 Seoul 공식 iOS 앱** 개발을 담당 중입니다.<br/>

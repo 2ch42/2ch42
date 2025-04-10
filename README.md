@@ -47,7 +47,7 @@
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/6b0cb10f-ac3b-4bf5-ad86-2daf7c0378e1">
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/1e91d1ac-2ce3-4b98-819a-ddbd317795f6">  
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/c04cb5c8-b44f-4351-8eb3-0ce25b5e66b2"></br>
-- 현재 API 리팩토링 작업 및 UI 개선 계획 중입니다.
+- 현재 API 리팩토링 작업 및 UI 개선을 진행 중입니다.
 </div>
 
 ------

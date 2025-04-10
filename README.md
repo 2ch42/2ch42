@@ -68,7 +68,7 @@
 - [프로젝트 팀 구성] : Backend, iOS, Android, Design, Infra </br>
 - [참여 기간] : 2024.12.01 ~ 진행 중<br/>
 - [기술 스택] : UIKit + Input/Output (MVVM), Coordinator <br/>
-- [역할] : **42 Seoul 공식 iOS 앱** 개발을 담당 중입니다.<br/>
+- [역할] : **QRIZ iOS 앱** 개발을 담당 중입니다.<br/>
 - [프로젝트 진행] : 정기회의 및 iOS 파트 회의, Slack을 통해 질문 및 진행 상황을 공유 중입니다. Pull Request를 통해 코드 리뷰 및 브랜치 관리를 진행하고 있습니다. <br/>
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/fd6bb97c-3134-49b5-8437-2796fb04532b">
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/0aeb09c8-00db-42d2-9438-57ab1958c0fd">

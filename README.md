@@ -64,6 +64,9 @@
 - [기술 스택] : UIKit + Input/Output (MVVM), Coordinator <br/>
 - [역할] : **42 Seoul 공식 iOS 앱** 개발을 담당 중입니다.<br/>
 - [프로젝트 진행] : 정기회의 및 iOS 파트 회의, Slack을 통해 질문 및 진행 상황을 공유 중입니다. Pull Request를 통해 코드 리뷰 및 브랜치 관리를 진행하고 있습니다. <br/>
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/fd6bb97c-3134-49b5-8437-2796fb04532b">
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/0aeb09c8-00db-42d2-9438-57ab1958c0fd">
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/2a3873fa-1888-407a-9df6-002800657b05">
 - [구현] : 온보딩, 프리뷰 테스트, 오답노트, 오늘의 공부, 데일리 테스트, 모의고사 등의 뷰를 개발 중입니다.<br/>
 </div>
 

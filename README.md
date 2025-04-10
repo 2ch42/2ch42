@@ -7,6 +7,7 @@
 <div>
 - 🏫 Hongik Univ(Seoul). Computer Engineering </br>
 - 🖥️ 42 Seoul (Alumni, intra ID : changhyl) </br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/33effa66-8ce1-4e53-97a8-83988ed67332"> </br>
 </div> </br>
 
 <div align=left>

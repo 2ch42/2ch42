@@ -6,7 +6,7 @@
 ### 📚 Education.
 <div>
 - 🏫 Hongik Univ(Seoul). Computer Engineering </br>
-- 🖥️ 42 Seoul (Alumni) </br>
+- 🖥️ 42 Seoul (Alumni, intra ID : changhyl) </br>
 </div> </br>
 
 <div align=left>

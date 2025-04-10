@@ -46,9 +46,9 @@
 - 슬랙 및 구글 폼을 통해 피드백을 받았고 사용자들의 의견을 바탕으로 기능을 추가했습니다. (통계 페이지)<br/>
 - 2025년 2월 통계 페이지 추가 직후 2025.02.17 ~ 2025.03.02 동안 동일 기간 최다 업데이트 횟수인 45회를 기록했습니다.<br/>
   이는 최근 42 교육장 방문 교육생이 40명 ~ 50명 내외인 점, 웹 및 안드로이드 또한 제공되는 점을 고려했을 때 유의미한 결과입니다.<br/>
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/6b0cb10f-ac3b-4bf5-ad86-2daf7c0378e1">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/1e91d1ac-2ce3-4b98-819a-ddbd317795f6">  
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/c04cb5c8-b44f-4351-8eb3-0ce25b5e66b2"></br>
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/6b0cb10f-ac3b-4bf5-ad86-2daf7c0378e1">
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/1e91d1ac-2ce3-4b98-819a-ddbd317795f6">  
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/c04cb5c8-b44f-4351-8eb3-0ce25b5e66b2"></br>
 - 현재 API 리팩토링 작업 및 UI 개선을 진행 중입니다.
 </div>
 

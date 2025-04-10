@@ -39,6 +39,10 @@
 - [프로젝트 팀 구성] : Backend, Frontend(Web), iOS, Android </br>
 - [참여 기간] : 2024.08.14 ~ 진행 중<br/>
 - [기술 스택] : SwiftUI, Kingfisher + Figma, Discord, Confluence, Swagger<br/>
+<div align=center>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/0b809b35-38ea-45bb-811d-1879200eabe4">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/744109f4-a2e1-4329-8ef2-75240122c360">
+</div>
 - [역할] : **Where42 iOS 앱** 개발 (기능 추가 & 배포) 및 유지보수, 신규 기능 디자인 추가를 담당 중입니다<br/>
 - [프로젝트 진행] : 매주 화요일 정기 회의 및 디스코드를 통해 아이디어 공유 및 버그를 공유했습니다.<br/>
 - [구현] : 통계 페이지, 공지사항, 좌석 배치도, 버전 업데이트 알림** 등의 기능 구현을 진행했습니다.<br/>

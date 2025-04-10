@@ -43,7 +43,7 @@
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/0b809b35-38ea-45bb-811d-1879200eabe4">
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/744109f4-a2e1-4329-8ef2-75240122c360">
 </div>
-- [역할] : **Where42 iOS 앱** 개발 (기능 추가 & 배포) 및 유지보수, 신규 기능 디자인 추가를 담당 중입니다<br/>
+- [역할] : iOS 앱 개발 (기능 추가 & 배포) 및 유지보수, 신규 기능 디자인 추가를 담당하고 있습니다.<br/>
 - [프로젝트 진행] : 매주 화요일 정기 회의 및 디스코드를 통해 아이디어 공유 및 버그를 공유했습니다.<br/>
 - [구현] : 통계 페이지, 공지사항, 좌석 배치도, 버전 업데이트 알림** 등의 기능 구현을 진행했습니다.<br/>
 - [버그 수정] : 토큰 갱신, 이미지 왜곡, 친구 검색 기능, 컴포넌트 사라짐, 메모리 누수(ARC)** 등의 버그 수정했습니다.<br/>
@@ -73,7 +73,7 @@
 - [프로젝트 팀 구성] : Backend, iOS, Android, Design, Infra </br>
 - [참여 기간] : 2024.12.01 ~ 진행 중<br/>
 - [기술 스택] : UIKit + Input/Output (MVVM), Coordinator <br/>
-- [역할] : **QRIZ iOS 앱** 개발을 담당 중입니다.<br/>
+- [역할] : iOS 앱 개발을 담당하고 있습니다.<br/>
 - [프로젝트 진행] : 정기회의 및 iOS 파트 회의, Slack을 통해 질문 및 진행 상황을 공유 중입니다. Pull Request를 통해 코드 리뷰 및 브랜치 관리를 진행하고 있습니다. <br/>
 <div align=center>
 <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/fd6bb97c-3134-49b5-8437-2796fb04532b">

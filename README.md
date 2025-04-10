@@ -88,4 +88,34 @@
 - **GitHub**: [github.com/2ch42](https://github.com/2ch42)
 - **Email**: [ckdgus1120@gmail.com](mailto:ckdgus1120@gmail.com)
 
+### 📌 3) [ft_transcedence(FE)](https://github.com/bok000111/ft_transcendence)
+<div align=center>
+<img width="300" alt="capture1" src="https://github.com/user-attachments/assets/84c77494-61c8-408d-8eed-e15c230648a8" />
+<img width="300" alt="capture2" src="https://github.com/user-attachments/assets/6afc10f0-a6c8-46fe-8f4d-dab2c5dd1b3c" />
+<img width="300" alt="capture3" src="https://github.com/user-attachments/assets/54f18b6a-4a5a-4825-b4cb-2838fc0c5ebd" />
+<img width="300" alt="capture4" src="https://github.com/user-attachments/assets/e487e54a-1359-4074-a9d1-7bc8b55c1c4e" />
+<img width="300" alt="capture5" src="https://github.com/user-attachments/assets/0d61f26a-a354-4643-9017-194d8b3c0325" />
+<img width="300" alt="capture6" src="https://github.com/user-attachments/assets/500cde2e-a400-4ffb-a68c-e1417c0e19d0" />
+<img width="300" alt="capture7" src="https://github.com/user-attachments/assets/e176e117-367a-48ba-8b30-7aba28a4e8b9" />
+<img width="300" alt="capture8" src="https://github.com/user-attachments/assets/33a296f3-0ec7-4101-a89e-36a8bd954d12" />
+<img width="300" alt="capture9" src="https://github.com/user-attachments/assets/9f2fcd7c-39f9-4009-87d7-dedb2d84fff4" />
+<img width="300" alt="capture10" src="https://github.com/user-attachments/assets/10e2af81-883b-4ccd-9c42-fb94925d1a4b" />
+<img width="300" alt="capture11" src="https://github.com/user-attachments/assets/8d8bd575-daff-47c1-9af7-6445a015c996" />
+</div>
 
+<div>
+- [프로젝트 소개] : "ft_transcedence"는 탁구 게임 서비스입니다.</br>
+- [프로젝트 팀 구성] : Backend, Frontend, Infra </br>
+- [참여 기간] : 2024.03.30 ~ 2024.07.11 <br/>
+- [역할] : 프론트엔드 담당(Vanilla JS) <br/>
+- [프로젝트 진행] : </br>
+  오프라인 회의, Slack, 디스코드를 통해 질문 및 진행 상황 공유 </br>
+  VS Code의 Live Share를 통해 페어 프로그래밍 진행</br>
+<br/>
+<div align=center>
+<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/fd6bb97c-3134-49b5-8437-2796fb04532b">
+<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/0aeb09c8-00db-42d2-9438-57ab1958c0fd">
+<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/2a3873fa-1888-407a-9df6-002800657b05">
+<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/8942493d-11be-41de-98f4-98f0f454e335">
+</div>
+</div>

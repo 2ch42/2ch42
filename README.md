@@ -35,7 +35,7 @@
 <div>
 - [🍎앱스토어 링크🍎] : [Where42](https://apps.apple.com/kr/app/where42/id6478480891)<br/>
 - [프로젝트 소개] : "Where42(어디있니)"는 42서울 교육생들에게 편리한 학습 환경을 제공하기 위해 카뎃들의 위치 정보를 실시간으로 파악해주는 서비스입니다.<br/>
-- [프로젝트 팀 구성] : Backend, Frontend(Web), iOS, Android
+- [프로젝트 팀 구성] : Backend, Frontend(Web), iOS, Android </br>
 - [참여 기간] : 2024.08.14 ~ 진행 중<br/>
 - [기술 스택] : SwiftUI, Kingfisher + Figma, Discord, Confluence, Swagger<br/>
 - [역할] : **Where42 iOS 앱** 개발 (기능 추가 & 배포) 및 유지보수, 신규 기능 디자인 추가를 담당 중입니다<br/>
@@ -65,7 +65,7 @@
 </div>
 <div>
 - [프로젝트 소개] : "QRIZ"는 SQLD 시험 대비 모바일 서비스입니다.</br>
-- [프로젝트 팀 구성] : Backend, iOS, Android, Design, Infra
+- [프로젝트 팀 구성] : Backend, iOS, Android, Design, Infra </br>
 - [참여 기간] : 2024.12.01 ~ 진행 중<br/>
 - [기술 스택] : UIKit + Input/Output (MVVM), Coordinator <br/>
 - [역할] : **42 Seoul 공식 iOS 앱** 개발을 담당 중입니다.<br/>

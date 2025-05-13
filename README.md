@@ -39,7 +39,7 @@
 - [프로젝트 팀 구성] : Backend, Frontend(Web), iOS, Android </br>
 - [1차 개발 기간] : 2023.10 ~ 2024.05.</br>
 - [2차 개발 기간] : 2024.08 ~ 2025.02 </br>
-- 현재 API 리팩토링 작업 및 UI 개선을 진행 중입니다.
+- 현재 API 리팩토링 작업 및 UI 개선을 진행 중입니다. </br>
 - [역할] : iOS 앱 개발 (기능 추가 & 배포) 및 유지보수, 신규 기능 디자인 추가를 담당하고 있습니다.<br/>
 - [기술 스택] : SwiftUI, Kingfisher + Figma, Discord, Confluence, Swagger<br/>
 

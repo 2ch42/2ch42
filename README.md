@@ -23,8 +23,34 @@
 
 ### 🚀 Project
 
+### 📌 1) [사이사이 - 일상에 스며든 라이딩 코스(iOS)](https://github.com/team-saisai/saisai_iOS) - ⭐️ App Store 출시 ⭐️
+- [🍎 App Store 🍎] : [사이사이 - 일상에 스며든 라이딩 코스](https://apps.apple.com/kr/app/사이사이-일상에-스며든-라이딩-코스/id6751545113)<br/>
+<div align="center">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/511cf743-47be-4c3f-ab43-f2319f92e5c6">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/d6b0243e-71a5-4fae-b8a6-ad73d5a65e72">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/12654489-3df3-4309-840d-ffed5671d374"></br>
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/6e36024d-b196-4b74-9030-85cae909b176">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/51709a91-2ea6-49ac-9d16-07da897276c5">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/6d086e1a-db1e-47b5-848f-3a8d40d50934"></br>
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/89766277-7000-41c1-b4f8-15723f7963a6">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/f817a282-db15-4743-827d-84e93b11adef">
 
-### 📌 1) [Where42(iOS)](https://github.com/42Where/where42_iOS) - ⭐️ App Store 출시 ⭐️
+
+</div>
+<div>
+- [프로젝트 소개] : "사이사이 - 일상에 스며든 라이딩 코스"는 사용자(자전거 라이더)의 다양한 니즈에 맞춘 국내 자전거 라이딩 관광 코스를 추천해주는 서비스입니다.<br/>
+- [프로젝트 팀 구성] : iOS, Android, Backend, Design, PM </br>
+- [프로젝트 기간] : 2025.05 ~ 2025.09 </br>
+- [iOS 개발 기간] : 2025.07.08 ~ 2025.09.03 </br>
+- [역할] : 전반적인 iOS 개발을 담당했습니다.(기여도 99%) <br/>
+- [기술 스택] : SwiftUI, MapKit, Core Location, Moya, Kingfisher, MVVM, Combine, 소셜 로그인(Kakao, Google, Apple) <br/>
+
+</div>
+
+------
+
+
+### 📌 2) [Where42(iOS)](https://github.com/42Where/where42_iOS) - ⭐️ App Store 출시 ⭐️
 - [🍎 App Store 🍎] : [Where42 iOS](https://apps.apple.com/kr/app/where42/id6478480891)<br/>
 <div align="center">
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/27b101bb-ae56-4321-b49f-f0f47d5b83a5">
@@ -47,7 +73,7 @@
 
 ------
 
-### 📌 2) [QRIZ(iOS)](https://github.com/Project-Qriz/iOS) - 개발 진행 中
+### 📌 3) [QRIZ(iOS)](https://github.com/Project-Qriz/iOS) - 개발 진행 中
 <div align="center">
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/995e0b5f-01ac-4b30-99f1-d8f66ce2c414">
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/22b93fdf-cc23-45bd-9f38-33115e7552f3">

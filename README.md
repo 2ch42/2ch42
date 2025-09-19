@@ -67,7 +67,7 @@
 - [2차 개발 기간] : 2024.08 ~ 2025.02 </br>
 - 현재 API 리팩토링 작업 및 UI 개선을 진행 중입니다. </br>
 - [역할] : iOS 앱 개발 (기능 추가 & 배포) 및 유지보수, 신규 기능 디자인 추가를 담당하고 있습니다.<br/>
-- [기술 스택] : SwiftUI, Kingfisher + Figma, Discord, Confluence, Swagger<br/>
+- [기술 스택] : SwiftUI, Kingfisher, Combine, Figma, Confluence, Swagger<br/>
 
 </div>
 
@@ -88,7 +88,7 @@
 - [프로젝트 팀 구성] : Backend, iOS, Android, Design, Infra </br>
 - [역할] : iOS 앱 개발을 담당하고 있습니다.<br/>
 - [1차 개발 기간] : 2024.12.01 ~ 진행 중<br/>
-- [기술 스택] : UIKit + Input/Output (MVVM), Coordinator <br/>
+- [기술 스택] : UIKit + Input/Output (MVVM), Combine, Coordinator, SwiftUI, Charts <br/>
 </div>
 
 ### 📌 3) [ft_transcedence(FE)](https://github.com/bok000111/ft_transcendence)
@@ -110,7 +110,7 @@
 - [프로젝트 소개] : "ft_transcedence"는 탁구 게임 서비스입니다.</br>
 - [프로젝트 팀 구성] : Backend, Frontend, Infra </br>
 - [참여 기간] : 2024.03.30 ~ 2024.07.11 <br/>
-- [역할] : 프론트엔드 담당(Vanilla JS) <br/>
+- [역할] : 프론트엔드 담당(Vanilla JS + Bootstrap) <br/>
 </div>
 
 ### 📫 연락처
